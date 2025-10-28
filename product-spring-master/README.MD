@@ -1,17 +1,32 @@
-<h3> COMPTE RENDU </h3>
-<img src="captures/capture1.png" width="1719" height="843">
+# 🧾 Compte Rendu
 
-<img src="captures/img.png.png" width="1719" height="843">
+## 📌 Introduction
 
-<h1>En suivant les étapes de la vidéo nous avons pu créer notre première application grace au framework Spring </h1> 
+En suivant les étapes de la vidéo, nous avons pu **créer notre première application grâce au framework Spring Boot**.
 
-<img src="captures/img_1.png.png" width="1719" height="843">
+---
 
-<h1> Au cours des etapes nous avons cree les differentes classes qui constituent le projet complet de l'appli  </h1> 
+## 📸 Captures d’écran
 
+### 1️⃣ Lancement du projet
+![Capture 1](captures/capture1.png)
 
-<img src="captures/img_2.png.png" width="1719" height="843">
+### 2️⃣ Configuration de l’application
+![Capture 2](captures/img.png)
 
-<img src="captures/img_3.png.png" width="1719" height="843">
+### 3️⃣ Création des classes principales
+![Capture 3](captures/img_1.png)
 
-<h1> En ayant termine la partie du tp primaire on comprends que spring injecte tout tout seul et facilite le travail des developpeurs pour la suite du travail </h1>
+Nous avons créé les différentes classes qui constituent l’application complète.
+
+---
+
+### 4️⃣ Structure finale du projet
+![Capture 4](captures/img_2.png)
+![Capture 5](captures/img_3.png)
+
+---
+
+## 💡 Conclusion
+
+En terminant cette première partie du TP, nous avons compris que **Spring Boot injecte automatiquement les dépendances** et **simplifie énormément le travail du développeur** pour la suite du projet.
